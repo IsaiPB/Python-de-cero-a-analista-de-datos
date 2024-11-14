@@ -6,4 +6,12 @@ Durante el curso "Python: de cero a analista de datos", aprendí programación e
 - [Tipos de variables](./notebooks/curso1/006_Tipos_de_variables.ipynb)
 [![Jupyter Notebook](https://colab.research.google.com/assets/colab-badge.svg)]()
 
+- [Tipos de variables](./notebooks/curso1/006_Tipos_de_variables.ipynb)
+![Static Badge](https://img.shields.io/badge/Notebook-Jupyter?style=flat-square&logo=jupyter&label=Jupyter&labelColor=%23FFFFFF&color=%23ff8000)
+
+- [Tipos de variables](./notebooks/curso1/006_Tipos_de_variables.ipynb)
+[![Jupyter Notebook](https://img.shields.io/badge/Notebook-Jupyter?style=flat-square&logo=jupyter&label=Jupyter&labelColor=%23FFFFFF&color=%23ff8000)](./notebooks/curso1/006_Tipos_de_variables.ipynb)
+
+
+
 
