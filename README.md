@@ -3,6 +3,4 @@ Durante el curso "Python: de cero a analista de datos", aprendí programación e
 
 
 ## 🔗 Python: de cero a usuario
-- Tipos de datos en python [](./teoria/tutorial.ipynb)
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HugoLebredo/FI_PYTHON_TUTORIAL/blob/main/teoria/tutorial.ipynb)
 
